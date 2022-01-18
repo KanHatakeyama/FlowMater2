@@ -1,0 +1,12 @@
+[
+{"keyword":"PolymerA",
+  "compound": "PolymerA",
+  "SMILES":"CCC",
+  "Lot":"ABC00001"
+  },
+{"keyword":"hot_plate_A",
+  "equipment": "Product ABC",
+  "company":"CDE Co."
+  }
+]
+
