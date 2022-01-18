@@ -5,8 +5,6 @@
 - Python module to convert flowchart-type material data into a table database.
   
   <img title="" src="images/about.png" alt="about.png" data-align="inline">
-  
-  
 
 # How to use
 
@@ -14,7 +12,7 @@
 
 # Requirements
 
-- Check env. yml
+- Check for env. yml
 
 - Main modules
   
