@@ -32,6 +32,10 @@
 
 - version 2022.1.18: initial version
 
+# TODO
+
+- GUI tool of editing graph and JSON data (in the future)
+
 # Author
 
 - Kan Hatakeyama-Sato
