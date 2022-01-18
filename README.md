@@ -22,7 +22,7 @@
   
   - pandas, scikit-learn, matplotlib, etc.
   
-  - Main requirements
+  - 
 
 # Note
 
