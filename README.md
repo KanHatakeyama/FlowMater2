@@ -6,6 +6,10 @@
   
   <img title="" src="images/about.png" alt="about.png" data-align="inline">
 
+# About GUI version
+ - [GUI version is under development!](https://github.com/KanHatakeyama/FlowMaterGUI)
+
+
 # How to use
 
 - See tutorial pages
