@@ -7,7 +7,7 @@
   <img title="" src="images/about.png" alt="about.png" data-align="inline">
 
 # About GUI version
- - [GUI version is under development!](https://github.com/KanHatakeyama/FlowMaterGUI)
+ - [GUI version is under development](https://github.com/KanHatakeyama/flowmater3.1)
 
 
 # How to use
@@ -30,7 +30,8 @@
 
 # Note
 
-- Related paper in preparation
+- Related papers
+  - [ChemRxiv](https://doi.org/10.26434/chemrxiv-2022-w1c6h)
 
 # History
 
